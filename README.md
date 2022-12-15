@@ -1,2 +1,2 @@
 # betting-scraper
-A scraping bot made with selenium
+Automation bots made with selenium and Tkinter. This is just a start
